@@ -8,7 +8,5 @@ namespace HX_Sample_App.Model
 {
     internal class LoginModel
     {
-
-        //fdsfsdfsdfsdfsdfsd
     }
 }
