@@ -9,4 +9,4 @@ namespace HX_Sample_App.ViewModel
     internal class LoginViewModel
     {
     }
-}
+    }
